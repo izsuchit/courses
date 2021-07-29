@@ -1,0 +1,16 @@
+
+.ch{
+    height: 490px;
+    width: 100%;
+    background-image:url(bachc.jpg);
+}
+#che{
+    position: absolute;
+    top:200px;
+left:250px;
+text-transform: capitalize;
+text-shadow: darkviolet;
+text-decoration-style:solid;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+color:darkmagenta;
+}

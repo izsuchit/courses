@@ -1,0 +1,428 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+  /*  height:10000px;*/
+  
+}
+body{
+  background-image: url(backele.jpg);
+  
+}
+
+.head{
+    height: 8%;
+    width: 100%;
+   /* background-color:darkturquoise;*/
+    color:white;
+    vertical-align: middle;
+    position: fixed;
+    overflow: hidden;
+    border-bottom:greenyellow 2px solid;
+}
+.head h3{
+   position: fixed;
+   top:17px;
+   left:5px;
+   
+    
+}
+.buttonbox{
+ height: 30px;
+ width:400px;
+ position: fixed;
+ top:8px;
+ right:10px;
+ 
+}
+.hm{
+  height: 30px;
+  width:80px;
+  padding: 2px;
+  margin-right: 10px;
+  color:white;
+  background-color: transparent;
+  border: transparent;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+#button{
+    /*border:2px solid white;*/
+    height: 50px;
+    width: 100px;
+    border: none;
+    background-color: transparent;
+    font-size: xx-large;
+    font-weight: 900;
+}
+#hi{
+    height:50px;
+    width:50px;
+    border-radius: 50%;
+    background-color: rgb(121, 19, 121);
+    border:2px  violet solid;
+    padding:10px ;
+   position:absolute;
+   top:60px;
+   left:5px;
+   text-align:center;
+     text-transform: capitalize;
+     
+     
+    font-size: larger;
+    font-weight: 1000;
+    color: white;
+}
+.pic{
+    height: 100px;
+    width:100px;
+    position:absolute;
+    top: 150px;
+    right:20px;
+    background-color:transparent yellowgreen;
+    border: 6px violet solid;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+
+
+.study{
+  
+    position: absolute;
+    top:500px;
+    left: 30px;
+    width:700px;
+    height: 1000px;
+   /* background-color: khaki;*/
+    margin:15px;
+}
+
+.box{
+    width: 250px;
+    height: 200px;
+    background-color: lawngreen;
+    border-radius: 10px;
+    position:relative;
+    bottom:73px;
+    left:10px;
+  text-indent: 15px;
+  color: white;
+  list-style-position: inside;
+ 
+}
+.bigbox{
+    width:300px;
+    height: 200px;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+  /*  padding: 10px;*/
+    position: relative;
+    bottom:0px;
+    right:0px;
+    border-top-right-radius: 5px;
+   /* border-bottom-right-radius: 5px;*/
+}
+.up{
+   position: relative;
+   bottom:32px;
+   right:0px;
+
+}
+
+.boxeven{
+    width:300px;
+    height: 200px;
+    border-left: 2px solid black;
+    border-top: 2px solid black;
+  /*  padding: 10px;*/
+    position:relative;
+    bottom:30px;
+    left:300px;
+   border-top-left-radius: 5px;
+ /*  border-bottom-left-radius: 5px; */
+}
+
+#sem1{
+      background-color: crimson;
+     
+    
+}
+#sem2{
+   background-color: darkgreen;
+}
+#sem3{
+  background-color: rgb(197, 197, 12);
+}
+#sem4{
+    background-color: darkslateblue;
+}
+#sem5{
+   background-color: rgb(150, 37, 150);
+}
+#sem6{
+    background-color: darksalmon;
+}
+#sem7{
+     background-color: gold;
+}
+#sem8{
+   
+}
+.small1{
+    height: 20px;
+    width: 4px;
+    background-color: red;
+    position: relative;
+    bottom:55px;
+    left: 50px;
+  /*  border: 1px solid white;*/
+   
+}
+.small2{
+    height: 20px;
+    width: 4px;
+    background-color: red;
+    position: relative;
+    bottom:73px;
+    left: 200px;
+   /* border: 1px solid white;*/
+
+}
+.a{
+  background-color:crimson;
+
+}
+.b{
+  background-color: darkgreen;
+}
+.c{
+  background-color: rgb(197, 197, 12);
+
+}
+.d{
+  background-color: darkslateblue;
+}
+.e{
+  background-color: rgb(150, 37, 150);
+
+}
+.f{
+  background-color: darksalmon;
+}
+.g{
+  background-color: gold;
+}
+.h{
+  background-color: greenyellow;
+}
+.link{
+  color: white;
+}
+.circle{
+    height: 50px;
+    width: 50px;
+    background-color: lightcoral;
+    position: relative;
+    bottom:27px;
+    right:40px;
+    border-radius: 50%;
+    border: 2px solid black;
+    overflow:hidden;
+}
+.circle2{
+    height: 50px;
+    width: 50px;
+    background-color: lightcoral;
+    position: relative;
+    bottom:27px;
+    left:250px;
+    border-radius: 50%;
+    border: 2px solid black;
+  overflow: hidden;
+}
+h4{
+  position: relative;
+  top:9px;
+    text-indent: 100px;
+    font-style:italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+}
+.contact{
+  height:500px;
+  width:800px;
+  background-color:blue;
+  position:relative;
+  top:1300px;
+  left:100px;
+ border:black 8px solid;
+ 
+ color:white;
+}
+#cc{
+/* background-color:red;*/
+  height:470px;
+  width:580px;
+ position:relative;
+  top:10px;
+  left:15px;
+  overflow:hidden;
+}
+#head{
+  text-align:center;
+}
+.name{
+  height: 30px;
+  width:280px;
+  border-radius: 20px;
+  padding: 2px;
+  border: transparent;
+  margin-top: 10px;
+ text-indent: 10px;
+
+}
+#email{
+  width:570px;
+}
+#number{
+  width: 570px;
+}
+#about{
+  width: 570px;
+  height: 200px;
+  
+}
+#submit{
+  background-color: green;
+  border: 1px solid white;
+  cursor: pointer;
+}
+#reset{
+  background-color: red;
+  border: 1px solid white;
+}
+
+
+#itsme{
+ /* background-color:green;*/
+  height:470px;
+  width:180px;
+ position:relative;
+  bottom:460px;
+  left:600px;
+}
+.icons{
+  height:25px;
+  width:25px;
+  padding-top: 15px;
+  padding-right: 5px;
+  background: none;
+}
+.blank{
+  height: 50px;
+  width: 800px;
+  background-color:black;
+  position: relative;
+  bottom:490px;
+  right:0px;
+}
+#cir{
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  background-color: white;
+  position: relative;
+  left:360px;
+  top:4px;
+}
+.but{
+ border: 2px transparent black;
+ margin: 5px;
+ padding: 2px;
+  height: 50px;
+  width: 500px;
+  cursor:pointer;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+}
+.butt{
+  height: 500px;
+  width: 150px;
+ 
+  position: relative;
+  top:0px;
+  left:250px;
+  
+}
+.bu{
+  height: 500px;
+  width: 150px;
+ 
+  position: relative;
+  top:1700px;
+  left:250px;
+}
+#c{
+  margin-top: 15px;
+}
+a :hover{
+  color: red;
+  background-color:peachpuff;
+}
+
+h2{
+   text-align: center;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   color: chartreuse;
+}
+.footer{
+  height: 30px;
+  width: 100%;
+  background-color: rgb(48, 12, 8);
+  position: relative;
+  top: 800px;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  text-transform: capitalize;
+  
+  
+}
+.date{
+  width: auto;
+  height: auto;
+  position: absolute;
+  top:60px;
+  right:30px;
+  color:yellow;
+  text-align: right;
+ 
+  font-size: larger;
+}
+#loading{
+  position: fixed;
+  width: 100%;
+  height: 100vh;
+  background: white url(backmech.jpg) no-repeat;
+  z-index: 99999;
+
+}
+#abou{
+  height: 300px;
+  width: 400px;
+  padding-top: 70px;
+  position: absolute;
+  top:150px;
+  left:200px;
+  color:white;
+ 
+}
+#courses{
+  padding-top: 70px;
+  
+}
+#some{
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
